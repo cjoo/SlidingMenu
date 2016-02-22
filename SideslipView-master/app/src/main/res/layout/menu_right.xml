@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_vertical"
+        android:text="右菜单区dfsdfsdfsusdifhihei今晚佛问放假未哦IF叫我较为哦覅较为哦IF较为哦覅较为哦IF较为哦IF危机foi违法较为哦IF较为哦覅较为哦IF较为哦" />
+</LinearLayout>
